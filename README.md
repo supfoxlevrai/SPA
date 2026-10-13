@@ -6,7 +6,7 @@
 >
 > 💡 *Pourquoi **SPA** ?* Le nom fait référence à la thématique de l'hydratation et du flux de données : on y **pourre** (envoie) des messages dans une **citerne** (serveur) pour les **siroter** (recevoir) au fil de la **tuyauterie** (sockets TCP).
 
-<small><small>Aussi "SPA" fait référence à l'eau minérale de Spa, une célèbre marque d'eau belge exploitée à Spa en province de Liège par la société Spa Monopole </small></small>
+<sub><sub>***Aussi "SPA" fait référence à l'eau minérale de Spa, une célèbre marque d'eau belge exploitée à Spa en province de Liège par la société Spa Monopole***</sub></sub>
 
 ---
 
@@ -168,6 +168,6 @@ Le protocole du serveur attend un format strict pour l'injection des messages (e
 
 ## 📄 Licence & Copyright
 
-© 2026 Nathanaël Dos Santos (***supfoxlevrai**). Tous droits réservés.
+© 2026 Nathanaël Dos Santos (***supfoxlevrai***). Tous droits réservés.
 
 Projet sous licence **MIT**.
