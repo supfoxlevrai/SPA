@@ -168,6 +168,6 @@ Le protocole du serveur attend un format strict pour l'injection des messages (e
 
 ## 📄 Licence & Copyright
 
-© 2026 Nathanaël Dos Santos. Tous droits réservés.
+© 2026 Nathanaël Dos Santos (***supfoxlevrai**). Tous droits réservés.
 
 Projet sous licence **MIT**.
