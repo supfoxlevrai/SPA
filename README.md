@@ -5,8 +5,8 @@
 > **SPA** est un tchat réseau multi-clients basé sur une architecture client-serveur robuste en Java. Le projet a été conçu de manière incrémentale en appliquant les bonnes pratiques de conception (POO, MVC, Observer, DAO) jusqu'à la mise en réseau multithreadée.
 >
 > 💡 *Pourquoi **SPA** ?* Le nom fait référence à la thématique de l'hydratation et du flux de données : on y **pourre** (envoie) des messages dans une **citerne** (serveur) pour les **siroter** (recevoir) au fil de la **tuyauterie** (sockets TCP).
-
-<sub><sub>***Aussi "SPA" fait référence à l'eau minérale de Spa, une célèbre marque d'eau belge exploitée à Spa en province de Liège par la société Spa Monopole***</sub></sub>
+>
+> <sub><sub>***Aussi "SPA" fait référence à l'eau minérale de Spa, une célèbre marque d'eau belge exploitée à Spa en province de Liège par la société Spa Monopole***</sub></sub>
 
 ---
 
