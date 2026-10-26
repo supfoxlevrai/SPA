@@ -89,54 +89,19 @@ C:.
 ├───bin
 │   └───spa
 │       ├───client
-│       │       ChatConsoleView.class
-│       │       ControlerTchat.class
-│       │       SpaClient.class
-│       │       SpaLauncherTest.class
-│       │       SpaMessageSender.class
-│       │       SpaServerListener.class
-│       │
 │       ├───dao
-│       │       DAOMessage.class
-│       │       MessageFileDao.class
-│       │
 │       ├───model
-│       │       ChatRoom.class
-│       │       Message.class
-│       │
 │       ├───observer
-│       │       ChatObserver.class
-│       │
 │       └───server
-│               SpaClientHandler.class
-│               SpaServerApp.class
 │
 └───src
     ├───spa
     │   ├───client
-    │   │       ChatConsoleView.java
-    │   │       ControlerTchat.java
-    │   │       SpaClient.java
-    │   │       SpaLauncherTest.java
-    │   │       SpaMessageSender.java
-    │   │       SpaServerListener.java
-    │   │
     │   ├───dao
-    │   │       DAOMessage.java
-    │   │       MessageFileDao.java
-    │   │
     │   ├───data
-    │   │
     │   ├───model
-    │   │       ChatRoom.java
-    │   │       Message.java
-    │   │
     │   ├───observer
-    │   │       ChatObserver.java
-    │   │
     │   └───server
-    │           SpaClientHandler.java
-    │           SpaServerApp.java
     │
     └───SPA_LAUNCH
         ├───CLIENT
@@ -144,11 +109,8 @@ C:.
         │       Start_Client.bat
         │
         └───SERVER
-            │   SpaServer.jar
-            │   Start_Server.bat
-            │
-            └───data
-                (lieu où vos "logs" de serveur seront conservés sous forme de fichiers texte)
+                SpaServer.jar
+                Start_Server.bat
 
 ```
 
