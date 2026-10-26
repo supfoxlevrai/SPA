@@ -1,0 +1,59 @@
+
+2026-10-12T21:42:58.616018700;SERVEUR ; L'Utilisateur(trice) [Le_Petit_Nathanael] s'est connecté(e) !
+2026-10-12T21:43:01.245533600;Le_Petit_Nathanael;salut
+2026-10-12T21:43:11.352734200;Le_Petit_Nathanael;r�pond n�gro
+2026-10-12T21:46:31.027286500;SERVEUR ; L'Utilisateur(trice) [Le_T] s'est connecté(e) !
+2026-10-12T21:46:40.513811;Le_T;Sale negre
+2026-10-12T21:48:59.774599500;Le_Petit_Nathanael;eurer
+2026-10-12T21:49:01.146352300;Le_Petit_Nathanael;oeureuree
+2026-10-12T21:49:02.746600900;Le_Petit_Nathanael;euroeu
+2026-10-12T21:52:40.496792100;Le_T;ftg pd
+2026-10-12T21:52:48.423454400;Le_T;oui, je te parle
+2026-10-12T21:52:52.341270500;Le_T;je parle � toi
+2026-10-12T21:55:27.428010200;Le_T;allo
+2026-10-12T21:55:33.159663700;Le_T;y'a quelqu'un ???????????????????
+2026-10-12T21:55:46.628160;Le_T;Theo le fdp
+2026-10-12T22:05:12.330071200;Le_T;ahahaha
+2026-10-12T22:05:14.538447600;Le_T;ntm
+2026-10-12T22:05:15.541065100;Le_T;pd
+2026-10-12T22:10:22.421299300;Le_T;C'est un myth fdp
+2026-10-12T22:10:46.098141100;Le_T;fdp
+2026-10-12T22:21:04.203111400;SERVEUR ; L'Utilisateur(trice) [Le_T] s'est déconnecté(e) !
+2026-10-12T22:31:05.567259400;SERVEUR ; L'Utilisateur(trice) [JUIF] s'est connecté(e) !
+2026-10-12T22:31:38.407704;JUIF;hello
+2026-10-12T22:31:41.950618700;JUIF;Salut
+2026-10-12T22:43:38.403399;JUIF;Salut
+2026-10-12T22:43:49.599732600;SERVEUR ; L'Utilisateur(trice) [JUIF] s'est déconnecté(e) !
+2026-10-12T22:45:29.130650200;SERVEUR ; L'Utilisateur(trice) [Mange_Petit] s'est connecté(e) !
+2026-10-12T22:45:33.295051700;Mange_Petit;salut
+2026-10-12T22:45:51.881697;Mange_Petit;nathanael fait partie de al qaida
+2026-10-12T22:46:00.843230800;SERVEUR ; L'Utilisateur(trice) [tg] s'est connecté(e) !
+2026-10-12T22:46:07.916341400;SERVEUR ; L'Utilisateur(trice) [] s'est connecté(e) !
+2026-10-12T22:46:18.812234500;;Bonjour 
+2026-10-12T22:46:20.828366200;tg;hellotg
+2026-10-12T22:46:23.159465500;tg;tg
+2026-10-12T22:46:24.614696900;tg;tg
+2026-10-12T22:46:45.995999700;;Impossible
+2026-10-12T22:47:07.437709300;;vqxfp-2a01-e0a-1241-4060-4d13-6001-f363-188a.run.pinggy-free.link
+2026-10-12T22:47:11.094723200;SERVEUR ; L'Utilisateur(trice) [BOMBOCLATT] s'est connecté(e) !
+2026-10-12T22:47:14.176938200;BOMBOCLATT;jerkjre
+2026-10-12T22:47:15.834709100;BOMBOCLATT;emlremlkr
+2026-10-12T22:47:17.774754500;BOMBOCLATT;ermekrmekrkemrker
+2026-10-12T22:47:19.266250800;BOMBOCLATT;ekrmlekr
+2026-10-12T22:47:34.536254100;;vqxfp-2a01-e0a-1241-4060-4d13-6001-f363-188a.run.pinggy-free.linDollarfin
+2026-10-12T22:47:48.780502100;SERVEUR ; L'Utilisateur(trice) [] s'est déconnecté(e) !
+2026-10-12T22:48:15.376415800;SERVEUR ; L'Utilisateur(trice) [Le_Juif] s'est connecté(e) !
+2026-10-12T22:48:24.658377500;Le_Juif;Va te faire foutre Theo
+2026-10-12T22:48:51.260263800;SERVEUR ; L'Utilisateur(trice) [James] s'est connecté(e) !
+2026-10-12T22:49:04.036499300;James;Bonsoir
+2026-10-12T22:49:07.577347100;Le_Juif;tg
+2026-10-12T22:49:19.909663200;BOMBOCLATT;fermer vos bouches les negres
+2026-10-12T22:49:27.293593300;Le_Juif;tg sale negro
+2026-10-12T22:49:42.243835300;James;AlCristiano
+2026-10-12T22:50:56.680464500;Le_Juif;Messi meilleur
+2026-10-12T22:51:13.432322300;SERVEUR ; L'Utilisateur(trice) [Le_Juif] s'est déconnecté(e) !
+2026-10-12T22:51:14.443972400;SERVEUR ; L'Utilisateur(trice) [James] s'est déconnecté(e) !
+2026-10-12T22:51:20.142176100;SERVEUR ; L'Utilisateur(trice) [BOMBOCLATT] s'est déconnecté(e) !
+2026-10-12T22:56:19.190651200;SERVEUR ; L'Utilisateur(trice) [NIQUER_VOS_MERE] s'est connecté(e) !
+2026-10-12T22:57:14.488512700;NIQUER_VOS_MERE;yo ?
+2026-10-12T22:58:33.058314600;NIQUER_VOS_MERE;wsh

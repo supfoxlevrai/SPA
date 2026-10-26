@@ -1,0 +1,94 @@
+
+2026-08-14T16:51:54.603594300;SERVEUR ; L'Utilisateur(trice) [Le N] s'est connecté(e) !
+2026-08-14T16:52:01.626687300;Le N;Hello
+2026-08-14T16:52:07.425492700;Le N;vous allez bien ?
+2026-08-14T16:54:24.682057700;SERVEUR ; L'Utilisateur(trice) [Le R] s'est connecté(e) !
+2026-08-14T16:54:28.838979100;Le N;ntm
+2026-08-14T16:54:36.025265600;Le R;azy ftg
+2026-08-14T16:54:40.107572600;Le N;bruh
+2026-08-14T16:55:19.490837500;SERVEUR ; L'Utilisateur(trice) [Le R] s'est déconnecté(e) !
+2026-08-14T16:55:42.033081500;Le N;nooo
+2026-08-14T16:55:45.110322200;SERVEUR ; L'Utilisateur(trice) [Le N] s'est déconnecté(e) !
+2026-08-14T17:24:02.752280400;SERVEUR ; L'Utilisateur(trice) [Le N] s'est connecté(e) !
+2026-08-14T17:24:05.840803600;Le N;hello
+2026-08-14T17:24:57.266614100;SERVEUR ; L'Utilisateur(trice) [Le R] s'est connecté(e) !
+2026-08-14T17:25:02.713688500;SERVEUR ; L'Utilisateur(trice) [Le H] s'est connecté(e) !
+2026-08-14T17:25:14.791186300;Le N;niquer vos m�res
+2026-08-14T17:25:21.028316100;Le R;ftg pd
+2026-08-14T17:25:25.197870600;Le N;burh
+2026-08-14T17:25:26.789864500;Le N;bruh
+2026-08-14T17:25:31.891524600;Le N;jme cassse
+2026-08-14T17:25:35.036500700;SERVEUR ; L'Utilisateur(trice) [Le N] s'est déconnecté(e) !
+2026-08-14T17:25:48.491534800;Le H;nooo
+2026-08-14T17:25:52.128418400;SERVEUR ; L'Utilisateur(trice) [Le H] s'est déconnecté(e) !
+2026-08-14T17:25:57.970161;Le R;aller vous faire
+2026-08-14T17:26:00.561777;SERVEUR ; L'Utilisateur(trice) [Le R] s'est déconnecté(e) !
+2026-08-14T17:41:23.249843500;SERVEUR ; L'Utilisateur(trice) [Le N] s'est connecté(e) !
+2026-08-14T17:48:21.193448600;Le N;hello ?
+2026-08-14T17:48:37.359734300;Le N;e
+2026-08-14T17:48:39.368540900;Le N;e
+2026-08-14T17:49:17.396713900;Le J;tg
+2026-08-14T17:49:28.503193900;Le J;va te faire
+2026-08-14T17:49:32.551213800;Le N;t'es qui ???
+2026-08-14T17:49:40.365857700;Le J;hehe
+2026-08-14T17:49:45.915248800;Le J;aurevoir
+2026-08-14T17:49:50.645969800;Le J;$fin
+2026-08-14T17:49:56.017782;Le N;?
+2026-08-14T17:50:00.386209;Le N;t'es con
+2026-08-14T17:50:05.253913300;Le J;ftg
+2026-08-14T17:50:11.509157400;Le N;wsh
+2026-08-14T17:54:12.440456200;SERVEUR ; L'Utilisateur(trice) [Le N] s'est connecté(e) !
+2026-08-14T17:54:17.946392500;Le N;wsh
+2026-08-14T17:54:25.177235;Le N;ftg c'est moi le N
+2026-08-14T17:54:32.342877700;Le N;Att y'a un truc chelou
+2026-08-14T17:54:36.718851400;Le N;???
+2026-08-14T17:54:42.141720400;Le N;On est sur �coute
+2026-08-14T17:54:45.815000600;Le N;comment
+2026-08-14T17:54:53.347107900;Le N;qlq utilise telnet ou netcat
+2026-08-14T17:54:58.320047600;Le N;comment tu sais ???
+2026-08-14T17:55:00.459920100;Le N;regarde 
+2026-08-14T17:55:22.066326300;Le N;wsh, on est 3
+2026-08-14T17:55:31.456289500;Le J;bjr
+2026-08-14T17:55:35.170219;Le N;????????????
+2026-08-14T17:55:38.045524300;Le N;wtttfff
+2026-08-14T17:55:44.517701500;Le N;vntm
+2026-08-14T17:55:49.659191800;Le J;wsh chill
+2026-08-14T17:55:56.444139400;Le J;J'ai r fais
+2026-08-14T17:56:07.779394;Le N;la vie, viens on change Le N
+2026-08-14T17:56:10.924501400;Le N;azy
+2026-08-14T17:56:14.900191900;SERVEUR ; L'Utilisateur(trice) [Le N] s'est déconnecté(e) !
+2026-08-14T17:56:17.671813100;Le N;pti pd
+2026-08-14T17:56:20.872364400;SERVEUR ; L'Utilisateur(trice) [Le N] s'est déconnecté(e) !
+2026-08-14T17:56:25.667325;Le J;ptn
+2026-10-11T03:17:59.972190400;SERVEUR ; L'Utilisateur(trice) [Karim] s'est connecté(e) !
+2026-10-11T03:18:04.514352200;Karim;Salut ?
+2026-10-11T03:19:43.641824600;SERVEUR ; L'Utilisateur(trice) [Jack] s'est connecté(e) !
+2026-10-11T03:19:56.929895700;Jack;tg
+2026-10-11T03:19:59.787194900;Karim;ftg
+2026-10-11T03:20:33.363282800;Karim;fdp
+2026-10-11T03:26:32.787356700;Karim;bruh
+2026-10-11T03:27:18.120067600;Salut;f
+2026-10-11T03:27:25.017683700;Karim;ftg pd
+2026-10-11T03:27:38.061669800;JJack;what
+2026-10-11T03:27:47.371612300;JJ;J'ai rien fais fdp
+2026-10-11T03:27:53.349268100;Karim;mais t qui toi ???
+2026-10-11T03:28:09.600458500;??JJ;tkt
+2026-10-11T03:28:28.108262600;[ApKari�m;ftg pelo
+2026-10-11T03:28:32.757451100;Karim;ahahahahaha
+2026-10-11T03:28:39.161517200;Jack;trop nul la vie
+2026-10-11T03:28:48.029405100;Jack;et je suis gay
+2026-10-11T03:28:53.257811700;Jack;wsh non stp
+2026-10-11T03:29:02.278064;Jack;c'est pas moi qui a �crit �a
+2026-10-11T03:29:11.861397500;Karim;jte vois en chelou Jack
+2026-10-11T03:29:27.181850100;Kairim mais Karim;Lmais moi aussi
+2026-10-11T03:29:53.138004;Karim;donc...$
+2026-10-11T03:29:57.401257200;Karim;????????????
+2026-10-11T03:30:15.910001100;aSJJ;Bon salut !
+2026-10-11T03:30:22.287986300;Karim;azz
+2026-10-11T03:30:24.788903600;Jack;azzz
+2026-10-11T03:30:45.332512;Karim;mais tu nous entends tjr fdp
+2026-10-11T03:30:50.550450700;Jack;sale pelo de merde
+2026-10-11T03:31:03.004888500;SERVEUR ; L'Utilisateur(trice) [Karim] s'est déconnecté(e) !
+2026-10-11T03:31:13.524805700;Jack;oh no
+2026-10-11T03:31:20.255421400;Jack;salut JJ
+2026-10-11T03:31:27.346886100;SERVEUR ; L'Utilisateur(trice) [Jack] s'est déconnecté(e) !
